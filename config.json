@@ -1,0 +1,21 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri": "mysql://root:@localhost/code",
+        "prod_uri":"mysql://root:@localhost/code",
+        "fb_url": "www.facebook.com",
+        "tw_url": "www.twitter.com",
+        "gh_url": "www.github.com",
+        "blog_name": "Code Guru",
+        "tag_line": "A Blog liked bye programmers",
+        "gmail-user" :"kanonaughty8@gmail.com",
+        "gmail-password":"kn9574585035",
+        "about_text": "hi This blog website is used for the learning purpose.",
+        "no_of_posts": 5,
+        "login_image":"login.jpg",
+        "admin_user":"admin@gmail.com",
+        "admin_password": "123",
+        "upload_location": "/PycharmProjects/flask/static/img"
+    }
+}
